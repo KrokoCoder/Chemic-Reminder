@@ -1,0 +1,78 @@
+html{
+    background-color: black;
+    color: white;
+    text-align: center;
+
+}
+
+button{
+    font-weight: bold;
+    font-size: 16px;
+    border-color: rgba(255, 255, 255, 0.781);
+    margin-top: 2.5px;
+    
+}
+
+.Lantanides{
+    width: 40px;
+    height: 40px;
+    background-color:rgb(172, 146, 146)
+}
+.react{
+    width: 40px;
+    height: 40px;
+    background-color:rgb(79, 139, 177)
+}
+.transMe{
+    width: 40px;
+    height: 40px;
+    background-color:rgb(230, 191, 18)
+}
+.posttransMe{
+    width: 40px;
+    height: 40px;
+    background-color:rgb(0, 255, 157)
+}
+.alkaEarth{
+    width: 40px;
+    height: 40px;
+    background-color:rgb(252, 134, 0)
+}
+.Actinides{
+    width: 40px;
+    height: 40px;
+    background-color:rgb(150, 150, 150)
+}
+.nobelGas{
+    width: 40px;
+    height: 40px;
+    background-color:rgb(255, 0, 255)
+}
+.semiMe{
+    width: 40px;
+    height: 40px;
+    background-color:rgb(23, 138, 233)
+}
+.halogen{
+    width: 40px;
+    height: 40px;
+    background-color: rgb(122, 91, 180);
+}
+.alkaMe{
+    width:40px;
+    height: 40px;
+    background-color: rgb(236, 3, 3);
+}
+.Unknown{
+    width: 40px;
+    height: 40px;
+    color: rgb(255, 255, 255);
+    background-color: rgb(0, 0, 0);
+}
+#H{
+    margin-right: 700px;
+}
+
+
+#B{margin-left: 438px;}
+#Al{margin-left: 438px;}
