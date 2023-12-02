@@ -76,3 +76,25 @@ button{
 
 #B{margin-left: 438px;}
 #Al{margin-left: 438px;}
+
+#elements{
+    width: 800px;
+    margin: 0 auto;
+    justify-content: center;
+    transform: scale(1.5);
+    margin-top: 25vh;
+}
+
+@media screen and (max-width: 1200px){
+    #elements{
+        transform: scale(1.2);
+        width: 800px;
+    }
+}
+
+@media screen and (max-width: 1000px){
+    #elements{
+        transform: scale(0.8);
+        width: 800px;
+    }
+}
